@@ -1,0 +1,8 @@
+[submodule "munin-php-apc"]
+	path = base/munin-php-apc 
+	url = https://github.com/vivid-planet/munin-php-apc.git
+
+[submodule "elasticsearch-munin"]
+	path = base/elasticsearch-munin
+	url = https://github.com/PeerJ/elasticsearch-munin.git
+
