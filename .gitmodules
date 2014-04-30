@@ -13,3 +13,36 @@
 [submodule "base/aws"]
 	path = base/aws
 	url = https://github.com/timkay/aws.git
+[submodule "icinga/check_elasticsearch"]
+	path = icinga/check_elasticsearch
+	url = https://github.com/orthecreedence/check_elasticsearch.git
+[submodule "icinga/nagios-check-redis"]
+	path = icinga/nagios-check-redis
+	url = https://github.com/shift/nagios-check-redis.git
+[submodule "icinga/check-es"]
+	path = icinga/check-es
+	url = https://github.com/radu-gheorghe/check-es.git
+[submodule "icinga/pynagioscheck"]
+	path = icinga/pynagioscheck
+	url = https://github.com/saj/pynagioscheck
+[submodule "icinga/nagios-plugin-elasticsearch"]
+	path = icinga/nagios-plugin-elasticsearch
+	url = https://github.com/anchor/nagios-plugin-elasticsearch
+[submodule "icinga/nagios-plugins"]
+	path = icinga/nagios-plugins
+	url = https://github.com/PeerJ/nagios-plugins
+[submodule "redis/redis-commander"]
+	path = redis/redis-commander
+	url = https://github.com/PeerJ/redis-commander.git
+[submodule "varnish/libvmod-curl"]
+	path = varnish/libvmod-curl
+	url = https://github.com/varnish/libvmod-curl.git
+[submodule "varnish/libvmod-digest"]
+	path = varnish/libvmod-digest
+	url = https://github.com/varnish/libvmod-digest.git
+[submodule "varnish/libvmod-statsd"]
+	path = varnish/libvmod-statsd
+	url = https://github.com/jib/libvmod-statsd.git
+[submodule "varnish/libvmod-timers"]
+	path = varnish/libvmod-timers
+	url = https://github.com/jib/libvmod-timers.git
