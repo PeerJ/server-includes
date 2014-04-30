@@ -10,3 +10,6 @@
 [submodule "base/munin"]
 	path = base/munin
 	url = https://github.com/PeerJ/munin.git
+[submodule "base/aws"]
+	path = base/aws
+	url = https://github.com/timkay/aws.git
