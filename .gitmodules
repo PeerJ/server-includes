@@ -46,3 +46,6 @@
 [submodule "varnish/libvmod-timers"]
 	path = varnish/libvmod-timers
 	url = https://github.com/jib/libvmod-timers.git
+[submodule "jenkins/Symfony2-coding-standard"]
+	path = jenkins/Symfony2-coding-standard
+	url = https://github.com/opensky/Symfony2-coding-standard.git
