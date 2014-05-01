@@ -49,3 +49,6 @@
 [submodule "jenkins/Symfony2-coding-standard"]
 	path = jenkins/Symfony2-coding-standard
 	url = https://github.com/opensky/Symfony2-coding-standard.git
+[submodule "icinga/cloudfuse"]
+	path = icinga/cloudfuse
+	url = https://github.com/redbo/cloudfuse.git
