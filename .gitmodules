@@ -52,3 +52,6 @@
 [submodule "icinga/cloudfuse"]
 	path = icinga/cloudfuse
 	url = https://github.com/redbo/cloudfuse.git
+[submodule "base/check-mk-agent-plugins"]
+	path = base/check-mk-agent-plugins
+	url = https://github.com/PeerJ/check-mk-agent-plugins.git
