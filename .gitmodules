@@ -55,3 +55,6 @@
 [submodule "base/check-mk-agent-plugins"]
 	path = base/check-mk-agent-plugins
 	url = https://github.com/PeerJ/check-mk-agent-plugins.git
+[submodule "icinga/check_json"]
+	path = icinga/check_json
+	url = https://github.com/PeerJ/check_json.git
