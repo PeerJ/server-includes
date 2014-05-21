@@ -61,3 +61,6 @@
 [submodule "icinga/RedisDB"]
 	path = icinga/RedisDB
 	url = https://github.com/trinitum/RedisDB
+[submodule "icinga/RedisDB-Parser"]
+	path = icinga/RedisDB-Parser
+	url = https://github.com/trinitum/perl-RedisDB-Parser
