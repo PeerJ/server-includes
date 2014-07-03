@@ -13,9 +13,6 @@
 [submodule "base/aws"]
 	path = base/aws
 	url = https://github.com/timkay/aws.git
-[submodule "icinga/check_elasticsearch"]
-	path = icinga/check_elasticsearch
-	url = https://github.com/orthecreedence/check_elasticsearch.git
 [submodule "icinga/nagios-check-redis"]
 	path = icinga/nagios-check-redis
 	url = https://github.com/shift/nagios-check-redis.git
@@ -46,9 +43,6 @@
 [submodule "varnish/libvmod-timers"]
 	path = varnish/libvmod-timers
 	url = https://github.com/jib/libvmod-timers.git
-[submodule "jenkins/Symfony2-coding-standard"]
-	path = jenkins/Symfony2-coding-standard
-	url = https://github.com/opensky/Symfony2-coding-standard.git
 [submodule "icinga/cloudfuse"]
 	path = icinga/cloudfuse
 	url = https://github.com/redbo/cloudfuse.git
@@ -67,3 +61,6 @@
 [submodule "jenkins/Symfony2"]
 	path = jenkins/Symfony2
 	url = https://github.com/opensky/Symfony2-coding-standard.git
+[submodule "icinga/check_elasticsearch"]
+	path = icinga/check_elasticsearch
+	url = https://github.com/PeerJ/check_elasticsearch.git
