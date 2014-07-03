@@ -64,3 +64,6 @@
 [submodule "icinga/RedisDB-Parser"]
 	path = icinga/RedisDB-Parser
 	url = https://github.com/trinitum/perl-RedisDB-Parser
+[submodule "jenkins/Symfony2"]
+	path = jenkins/Symfony2
+	url = https://github.com/opensky/Symfony2-coding-standard.git
