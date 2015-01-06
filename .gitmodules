@@ -67,3 +67,6 @@
 [submodule "php/Symfony2"]
 	path = php/Symfony2
 	url = https://github.com/PeerJ/Symfony2-coding-standard.git
+[submodule "icinga/check_jstat"]
+	path = icinga/check_jstat
+	url = https://github.com/Ericbla/check_jstat.git
