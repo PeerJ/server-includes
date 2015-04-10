@@ -63,7 +63,7 @@
 	url = https://github.com/PeerJ/check_elasticsearch.git
 [submodule "php/VariableAnalysis"]
 	path = php/VariableAnalysis
-	url = https://github.com/illusori/PHP_Codesniffer-VariableAnalysis.git
+	url = https://github.com/PeerJ/PHP_Codesniffer-VariableAnalysis.git
 [submodule "php/Symfony2"]
 	path = php/Symfony2
 	url = https://github.com/PeerJ/Symfony2-coding-standard.git
