@@ -73,3 +73,6 @@
 [submodule "tools/spf-tools"]
 	path = tools/spf-tools
 	url = https://github.com/PeerJ/spf-tools.git
+[submodule "base/cronlock"]
+	path = base/cronlock
+	url = https://github.com/PeerJ/cronlock.git
