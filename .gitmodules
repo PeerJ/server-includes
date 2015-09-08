@@ -79,3 +79,6 @@
 [submodule "base/solo"]
 	path = base/solo
 	url = https://github.com/timkay/solo.git
+[submodule "base/memon"]
+	path = base/memon
+	url = https://github.com/PeerJ/MEMon.git
