@@ -79,3 +79,6 @@
 [submodule "base/memon"]
 	path = base/memon
 	url = https://github.com/PeerJ/MEMon.git
+[submodule "icinga/pynagioscheck"]
+	path = icinga/pynagioscheck
+	url = https://github.com/PeerJ/pynagioscheck.git
