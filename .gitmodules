@@ -19,9 +19,6 @@
 [submodule "icinga/check-es"]
 	path = icinga/check-es
 	url = https://github.com/radu-gheorghe/check-es.git
-[submodule "icinga/pynagioscheck"]
-	path = icinga/pynagioscheck
-	url = https://github.com/saj/pynagioscheck
 [submodule "icinga/nagios-plugin-elasticsearch"]
 	path = icinga/nagios-plugin-elasticsearch
 	url = https://github.com/anchor/nagios-plugin-elasticsearch
@@ -82,3 +79,6 @@
 [submodule "base/memon"]
 	path = base/memon
 	url = https://github.com/PeerJ/MEMon.git
+[submodule "icinga/pynagioscheck"]
+	path = icinga/pynagioscheck
+	url = https://github.com/PeerJ/pynagioscheck.git
